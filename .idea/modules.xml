@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaHomework3.iml" filepath="$PROJECT_DIR$/.idea/JavaHomework3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/abstractClasses/abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfacesDemo/interfacesDemo.iml" filepath="$PROJECT_DIR$/interfacesDemo/interfacesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" filepath="$PROJECT_DIR$/polymorphismDemo/polymorphismDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticDemo/staticDemo.iml" filepath="$PROJECT_DIR$/staticDemo/staticDemo.iml" />
+    </modules>
+  </component>
+</project>
